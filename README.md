@@ -20,6 +20,12 @@
 
 ---
 
+## 💻 How to Run the Demo
+
+1. Download ZLM-Core-Demo.exe and ZLM_Cor_SDK.dll into the same directory.
+2. Run ZLM-Core-Demo.exe to launch the networking simulation and latency benchmark.
+---
+
 ## 📬 Contact & Collaboration
 If you are interested in *ZLM-Core*, have technical questions, or want to explore collaboration/investment opportunities, feel free to reach out:
 
