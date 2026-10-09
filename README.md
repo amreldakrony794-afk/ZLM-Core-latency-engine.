@@ -23,7 +23,7 @@
 ## 📬 Contact & Collaboration
 If you are interested in *ZLM-Core*, have technical questions, or want to explore collaboration/investment opportunities, feel free to reach out:
 
-- *Email:* Amreldakrony794@gmail.com
+- *Email:* amreldakrony794@gmail.com
 - *GitHub Issues:* [Open an issue](../../issues
 
 ---
